@@ -168,6 +168,3 @@ Backend:
 - This project uses an in-process Chroma client for simplicity. For persistence across restarts or multi-process deployments, configure a persistent Chroma server or a backed store.
 - The minimal Markdown renderer in the frontend is dependency-free and conservative. If you need full Markdown + sanitization, switch to `marked` + `DOMPurify` on the client.
 
-## License
-
-MIT (adjust as needed).
