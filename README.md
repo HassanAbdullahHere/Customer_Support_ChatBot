@@ -2,6 +2,8 @@
 
 A full-stack RAG (Retrieval-Augmented Generation) chatbot with a modern React frontend and a FastAPI backend powered by ChromaDB vector search and the Hugging Face Inference Router.
 
+![ViteReact-GoogleChrome2025-09-1018-03-37-ezgif com-crop](https://github.com/user-attachments/assets/7321ba7c-8c5a-4250-b72b-d568826007e4)
+
 ## Tech Stack
 
 - Frontend: React + Vite
